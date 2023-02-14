@@ -1,3 +1,5 @@
-const print = (input) => console.log(input);
+// const print = (input) => console.log(input);
 
-print('Hello world!');
+// print('Hello world!');
+
+const palindrome = require('./src/palindrome/index');
