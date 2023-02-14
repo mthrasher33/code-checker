@@ -3,3 +3,4 @@
 // print('Hello world!');
 
 const palindrome = require('./src/palindrome/index');
+const anagram = require('./src/anagram/index');
